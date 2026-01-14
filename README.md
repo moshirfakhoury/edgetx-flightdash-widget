@@ -26,17 +26,22 @@ Notes
 - Designed for clarity, minimal clutter, and fast interpretation while flying
 
 Widget - not connected to model
+
 <img width="487" height="276" alt="image" src="https://github.com/user-attachments/assets/b93c4190-4106-42e2-aded-cd524e5b5257" />
 
 Widget - connected to model but not armed
+
 <img width="490" height="278" alt="image" src="https://github.com/user-attachments/assets/cdd9bb73-1655-429b-b801-9c57a14da131" />
 
 Widget - connected to model and armed
+
 <img width="487" height="277" alt="image" src="https://github.com/user-attachments/assets/e94fca6c-bd04-4994-8009-25f68a974011" />
 
 Widget - Plane Icon - GV9 FM1 = 1
+
 <img width="492" height="283" alt="image" src="https://github.com/user-attachments/assets/7bdc8e70-5cd1-46e9-b82e-0a034759e8fe" />
 
 Widget - Drone Icon - GV9 FM1 = 2
+
 <img width="487" height="282" alt="image" src="https://github.com/user-attachments/assets/81bed855-a3f1-4221-bd58-3fb6c8854f1b" />
 
