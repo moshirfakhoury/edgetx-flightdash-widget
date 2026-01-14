@@ -26,7 +26,7 @@ Notes
 - Designed for clarity, minimal clutter, and fast interpretation while flying
 
 Widget - not connected to model
-[screen-2026-01-13-160144.bmp](https://github.com/user-attachments/files/24625028/screen-2026-01-13-160144.bmp)
+<img width="1031" height="590" alt="image" src="https://github.com/user-attachments/assets/1904bdde-9f5e-4770-a317-28ccabe33f16" />
 
 Widget - connected to model but not armed
 [screen-2026-01-13-091604.bmp](https://github.com/user-attachments/files/24625043/screen-2026-01-13-091604.bmp)
