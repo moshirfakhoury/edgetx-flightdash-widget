@@ -5,6 +5,7 @@ https://github.com/moshirfakhoury/edgetx-postflight-widget
 https://github.com/moshirfakhoury/edgetx-preflighttest-widget
 
 Overview
+
 FlightDash is a custom EdgeTX Lua widget designed to provide a clear, at-a-glance flight dashboard for helicopters. It consolidates critical telemetry, status, and system information into a single, visually intuitive layout optimised for in-flight use.
 The widget focuses on situational awareness, using colour-coded icons, flashing alerts, and status tiles to highlight important conditions such as arming state, motor state, receiver health, battery status, and remaining flight time.
 FlightDash is compatible with EdgeTX 2.11+ and is designed for RadioMaster transmitters, but should work on any EdgeTX-supported radio with sufficient screen resolution.
