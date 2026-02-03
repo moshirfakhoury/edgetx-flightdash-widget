@@ -34,6 +34,13 @@ Notes
 - No persistent data is stored; all detection resets safely on RX signal loss or radio reboot
 - Designed for clarity, minimal clutter, and fast interpretation while flying
 
+Installation
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Locate the last folder named flightDash (it contains main.lua and README.txt)
+- Copy only the flightDash folder
+- Paste it into your SDCard/WIDGETS directory
+
 Widget - not connected to model
 
 <img width="487" height="276" alt="image" src="https://github.com/user-attachments/assets/b93c4190-4106-42e2-aded-cd524e5b5257" />
