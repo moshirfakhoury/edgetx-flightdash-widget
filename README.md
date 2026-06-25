@@ -1,4 +1,4 @@
-**This widget has been adjusted to fit the TX16S MK3 Please down the correct file**
+**This widget has been adjusted to fit the TX16S MK3 Please download the flighDashMK3 folder**
 
 Checkout my other widgets:
 
