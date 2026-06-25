@@ -1,3 +1,5 @@
+**This widget has been adjusted to fit the TX16S MK3 Please down the correct file**
+
 Checkout my other widgets:
 
 https://github.com/moshirfakhoury/edgetx-postflight-widget
@@ -35,9 +37,9 @@ Notes
 - Designed for clarity, minimal clutter, and fast interpretation while flying
 
 Installation
-- Download the ZIP file
+- Download the ZIP file 
 - Extract the contents of the ZIP file
-- Locate the last folder named flightDash (it contains main.lua and README.txt)
+- Locate the last folder named flightDash (it contains main.lua)
 - Copy only the flightDash folder
 - Paste it into your SDCard/WIDGETS directory
 
